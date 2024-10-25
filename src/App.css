@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  /* text-align: center; */
+}
+body{
+  width: 100%;
+  height: 100vh;
+}
+
+.card {
+  padding: 2em;
+}
+.card-cont{  
+  margin: 20px;
+  padding: 20px;
+  box-sizing: border-box;
+  /* overflow-wrap: anywhere; */
+  overflow-y: hidden;
+  flex-wrap: wrap;
+  display: grid;
+}
+.container{
+  width: 12000px;
+  height: 30vh;
+  border: 2px green solid;
+  
+
+}
+
+
